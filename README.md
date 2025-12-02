@@ -1,8 +1,6 @@
 # ml-project-323161
 
 ## Team Members
-- Bekzod Obidov
-- Bhoomi
 
 
 ## 1. Introduction
